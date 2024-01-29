@@ -1,4 +1,4 @@
- sudo pacman -S neovim git bluez bluez-utils blueman neovim ruby nodejs npm python-pip unzip zsh alsa-utils playerctl brightnessctl
+ sudo pacman -S neovim git bluez bluez-utils blueman neovim ruby nodejs npm python-pip unzip zsh alsa-utils playerctl brightnessctl polybar
 
 #Enable the Service
 sudo systemctl start bluetooth.service
